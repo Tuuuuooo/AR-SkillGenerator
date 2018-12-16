@@ -31,3 +31,21 @@ function loadLocalImage(e) {
 	reader.readAsDataURL(fileData);
 }
 
+//ファイルが指定された時にloadLocalImage()を実行
+file.addEventListener('change', loadLocalImage, false);
+
+// Canvas上に画像を表示する
+function canvasDraw(){
+	// canvas内の要素をクリアする
+	ctx.clearRect(0, 0, canvasWidth, canvasHeight);
+
+	// Canvas上に画像を表示
+	var img = new Image();
+	img.src = uploadImagSrc;
+	img.onload = function(){
+		ctx.drawImage(img, 0, 0,
+	canvasWidth, this.height * (canvasWidth / 
+	this.width));
+	}
+}
+
