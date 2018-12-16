@@ -1,3 +1,4 @@
+var file = document.getElementById('file');
 var canvas = 
 	document.getElementById('canvas');
 var canvasWidth = 400;
