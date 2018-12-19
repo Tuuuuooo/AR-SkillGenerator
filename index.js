@@ -1,6 +1,5 @@
 var file = document.getElementById('file');
-var canvas = 
-	document.getElementById('canvas');
+var canvas = document.getElementById('canvas');
 var canvasWidth = 400;
 var canvasHeight = 300;
 var uploadImgSrc;
@@ -45,8 +44,7 @@ function canvasDraw(){
 	img.src = uploadImagSrc;
 	img.onload = function(){
 		ctx.drawImage(img, 0, 0,
-	canvasWidth, this.height * (canvasWidth / 
-	this.width));
+	canvasWidth, this.height * (canvasWidth / this.width));
 	}
 }
 
