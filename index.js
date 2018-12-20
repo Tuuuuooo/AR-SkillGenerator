@@ -43,8 +43,7 @@ function canvasDraw(){
 	var img = new Image();
 	img.src = uploadImgSrc;
 	img.onload = function(){
-		ctx.drawImage(img, 0, 0,
-	canvasWidth, this.height * (canvasWidth / this.width));
+		ctx.drawImage(img, 0, 0, canvasWidth, this.height * (canvasWidth / this.width));
 	}
 }
 
