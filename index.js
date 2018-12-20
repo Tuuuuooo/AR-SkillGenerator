@@ -41,7 +41,7 @@ function canvasDraw(){
 
 	// Canvas上に画像を表示
 	var img = new Image();
-	img.src = uploadImagSrc;
+	img.src = uploadImgSrc;
 	img.onload = function(){
 		ctx.drawImage(img, 0, 0,
 	canvasWidth, this.height * (canvasWidth / this.width));
