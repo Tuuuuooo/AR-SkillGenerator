@@ -1,0 +1,150 @@
+[33mcommit d4d0652a42617b47ec93628f515ce4eee6881411[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sat Dec 29 23:37:20 2018 +0900
+
+    init index.js
+
+[33mcommit 84a699fb0b7a8d945d3d9d691e507101f8aede06[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sat Dec 29 23:36:20 2018 +0900
+
+    init index.html
+
+[33mcommit e1cc317492831c08f16b3004988c6c091e09dd92[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sat Dec 29 23:33:06 2018 +0900
+
+    Update index.html
+
+[33mcommit 84ade7c6890d4a62d74aa2d4cd05d272d6ea2867[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sat Dec 29 23:29:53 2018 +0900
+
+    Update index.js
+    
+    debug add console.log()
+
+[33mcommit bdaadd27508ad45dc836747a5d5337a81599cdac[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Fri Dec 28 00:00:55 2018 +0900
+
+    Update index.js
+    
+    Copy & Paste
+
+[33mcommit 7cc88ae74d026c8c10885852df3583d96e731342[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Thu Dec 27 23:42:58 2018 +0900
+
+    Update index.js
+    
+    Add debug console.log
+
+[33mcommit 519843e024d4dfa68316bcc0b58798e3860c2dd3[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Wed Dec 26 23:56:50 2018 +0900
+
+    Update index.js
+    
+    add deback alart
+
+[33mcommit aa2f0710d998aec9f80a53cbe2313a608035fb44[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Wed Dec 26 01:10:22 2018 +0900
+
+    index.js drawImage Update
+
+[33mcommit 7edd2163bc8b3d784f496bcde8ad03173dd01eb9[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Wed Dec 26 00:54:50 2018 +0900
+
+    index.html comentout
+
+[33mcommit dbf64eb07ac4d82edd779e7b8701dd8de244447f[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Fri Dec 21 00:50:53 2018 +0900
+
+    index.js Update
+
+[33mcommit 335a3aeae24b98838d1b21ac0a8418bf26356cf2[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Fri Dec 21 00:46:04 2018 +0900
+
+    Update index.js
+
+[33mcommit c8ccc1a9a1c743042792ccbcdf7ba4f21fc4e097[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Fri Dec 21 00:32:31 2018 +0900
+
+    index.html Update
+
+[33mcommit 9b039f3b742ed49a9d076b1b79c0d907dfc52ef5[m
+Merge: 05ae7da 2febcfc
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Thu Dec 20 00:59:16 2018 +0900
+
+    Merge branch 'master' of https://github.com/Tuuuuooo/AR-SkillGenerator
+
+[33mcommit 05ae7da4395e46b827a7a437a7385a01f0a7d00a[m
+Author: Tuuuuooo <HitoKuSa3r1@gmail.com>
+Date:   Thu Dec 20 00:35:31 2018 +0900
+
+    Update index.js
+
+[33mcommit 2febcfc9c8ebcb25d4aa122768f5fef6f96c8ed0[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sun Dec 16 23:59:28 2018 +0900
+
+    Update README.md
+
+[33mcommit 66fe511e960a0ad98a0329c507dbadf87da0b1a5[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Sun Dec 16 23:58:46 2018 +0900
+
+    Update REDME.md
+    
+    add Reference
+
+[33mcommit 45fdbb1feb47ac8b2a9facefc87c8add4286b4d4[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Sun Dec 16 23:50:26 2018 +0900
+
+    index.js Update
+
+[33mcommit 818e700e7e21556fbd76fb5d699c6178e4c54a87[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Sun Dec 16 23:45:39 2018 +0900
+
+    index.js Update
+
+[33mcommit b27c0898eedbc10da31b6e5cbd6c6326f688f967[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Wed Dec 12 23:59:31 2018 +0900
+
+    Update index.*
+
+[33mcommit 99f2be1a8fbd4de5ab54087c411c91e1de1ceecf[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Tue Dec 11 00:40:08 2018 +0900
+
+    index.* Update
+
+[33mcommit 9bff5084b993c5956e7f4b7d89afd34c0fa0dfd5[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Mon Dec 10 01:02:31 2018 +0900
+
+    index.html Update
+
+[33mcommit a7cf89d81987132b4ddc63711a9f8fb697a3262a[m
+Author: Tuuuuooo <42348929+Tuuuuooo@users.noreply.github.com>
+Date:   Mon Dec 10 00:46:32 2018 +0900
+
+    Create READEME.md
+    
+    reademeを作成
+
+[33mcommit a1ee9271d5b511493ff67aba744a65613810d1bc[m
+Author: Tuuuuooo <emura1142@gmail.com>
+Date:   Sun Dec 9 11:51:13 2018 +0900
+
+    first commit
