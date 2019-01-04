@@ -45,6 +45,9 @@ function canvasDraw(){
 	img.onload = function(){
 		ctx.drawImage(img, 0, 0, canvasWidth, this.height * (canvasWidth / this.width));
 	}
+	
+	// Canvas上にテキストを表示
+        addText();
 }
 
 // Canvas上にテキストを表示する
