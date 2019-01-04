@@ -47,3 +47,15 @@ function canvasDraw(){
 	}
 }
 
+// Canvas上にテキストを表示する
+function addText() {
+    ctx.fillStyle = '#fdd000';
+    ctx.fillRect(10, 10, 140, 30);
+
+    ctx.font = "bold 20px 'MS Pゴシック'";
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = '#002B69';
+    ctx.fillText('', 80, 25);
+}
+
