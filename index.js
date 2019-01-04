@@ -59,6 +59,6 @@ function addText() {
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     ctx.fillStyle = '#002B69';
-    ctx.fillText('', 80, 25);
+    ctx.fillText('あああああ', 80, 25);
 }
 
