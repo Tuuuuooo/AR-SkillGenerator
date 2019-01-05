@@ -45,8 +45,17 @@ function canvasDraw(){
 	img.onload = function(){
 		ctx.drawImage(img, 0, 0, canvasWidth, this.height * (canvasWidth / this.width));
 	
-		// Canvas上にテキストを表示
-        	addText();
+	// Canvas上にテキストを表示
+        addText();
+	
+	// canvasを画像に変換
+        var data = canvas.toDataURL();
+
+        // 画像として出力
+        var outputImg = document.createElement('img');
+        outputImg.src = data;
+        document.getElementById('result').appendChild(outputImg);
+    
 	}
 }
 
