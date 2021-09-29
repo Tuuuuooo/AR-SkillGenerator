@@ -9,11 +9,44 @@
 
 <body>
 	<main>
-	<h1>アリアンロッド2Eスキルジェネレーター<h1>
-	<div class="upload"><input type="file" name="file" id="file" ></div>
-		<canvas id="canvas"></canvas>
-	</main>
+		<h1>アリアンロッド2Eスキルジェネレーター<h1>
+		<div class="upload"><input type="file" name="file" id="file" ></div>
+			<canvas id="canvas"></canvas>
 
+	</main>
+	<form id="parts">
+		<table>
+			<tr>
+				<td>スキル名：</td>
+				<td><input type="text" id="skill_name"></td>
+				<td>タイミング：</td>
+				<td><input type="text" id="timing"></td>
+			</tr>
+			<tr>
+				<td>判定：</td>
+				<td><input type="text" id="judgement"></td>
+				<td>対象：</td>
+				<td><input type="text" id="target"></td>
+			</tr>
+			<tr>
+				<td>射程：</td>
+				<td><input type="text" id="range"></td>
+				<td>コスト：</td>
+				<td><input type="text" id="cost"></td>
+			</tr>
+			<tr>
+				<td>SL上限：</td>
+				<td><input type="text" id="sl_limit"></td>
+				<td>使用条件：</td>
+				<td><input type="text" id="terms_of_use"></td>
+			</tr>
+			<tr>
+				<td>効果：</td>
+				<td><input type="text" id="effect"></td>
+			</tr>
+		</table>
+	</form>
+	<h5><a id="result"></a></h5>
 	<script>
 		console.log('AR-SkillGenerator Pages Sample');
 	</script>
